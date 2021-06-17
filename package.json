@@ -18,7 +18,7 @@
     "@ensdomains/ensjs": "^2.0.1",
     "@harmony-js/core": "0.1.36",
     "@ledgerhq/hw-transport-webhid": "^5.7.0",
-    "@ledgerhq/hw-transport-webusb": "4.74.1",
+    "@ledgerhq/hw-transport-webusb": "5.51.1",
     "@vue/babel-preset-app": "^4.4.1",
     "aes-js": "^3.1.2",
     "axios": "^0.21.1",
