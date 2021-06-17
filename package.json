@@ -16,7 +16,7 @@
     "@babel/core": "^7.10.1",
     "@babel/preset-env": "^7.10.1",
     "@ensdomains/ensjs": "^2.0.1",
-    "@harmony-js/core": "0.1.36",
+    "@harmony-js/core": "0.1.56",
     "@ledgerhq/hw-transport-webhid": "^5.7.0",
     "@ledgerhq/hw-transport-webusb": "4.74.1",
     "@vue/babel-preset-app": "^4.4.1",
